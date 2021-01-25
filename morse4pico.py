@@ -26,8 +26,6 @@ def banner():
     return None
 
 
-# For some reason with MicroPython, using return doesn't
-# ever print out to screen... Probably just me...
 def to_morse(string_arg):
     print(' '.join(MORSE.get(i.upper()) for i in string_arg))
     return None
