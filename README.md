@@ -6,10 +6,12 @@ Two files morse4pico.py and morse4pico-led.py are available. The morse4pico.py i
 Prerequisites (morse4pico.py)
 - Micropython installed onto the Pico (https://datasheets.raspberrypi.org/pico/sdk/pico_python_sdk.pdf)
 - USB cable to connect from Pico to PC
+- IDE such as Thonny or Visual Studio Code (https://thonny.org/ OR https://code.visualstudio.com/) 
 
 Prerequisites (morse4pico-led.py)
 - Micropython installed onto the Pico (https://datasheets.raspberrypi.org/pico/sdk/pico_python_sdk.pdf)
 - USB cable to connect from Pico to PC
+- IDE such as Thonny or Visual Studio Code (https://thonny.org/ OR https://code.visualstudio.com/) 
 - Breadboard
 - Resistor
 - LED
